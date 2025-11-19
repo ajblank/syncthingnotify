@@ -1,3 +1,3 @@
 # syncthingnotify
 
-I will add text later
+I added text now!
